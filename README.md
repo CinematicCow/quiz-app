@@ -28,9 +28,9 @@ A step by step series of examples that tell you how to get a development env run
 Clone the repository & change current the directory
 
 ```
-git clone
+git clone https://github.com/CinematicCow/quiz-app.git
 
-cd
+cd quiz-app
 ```
 
 Make the executable
