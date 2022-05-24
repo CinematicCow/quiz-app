@@ -53,6 +53,12 @@ The executable, by default looks for the `problems.csv` file. If you have a diff
 quiz-app -csv="<FILE_NAME.csv>"
 ```
 
+The default timer is 30 seconds. You can change that, in seconds
+
+```
+quiz-app -limit=10
+```
+
 To start the quiz
 
 ```
@@ -67,5 +73,5 @@ You scored 12 out of 13.
 
 ## TODO <a name = "todo"></a>
 
-- Implement time function via time package
-- Add Go routines
+- ~~Implement time function via time package~~
+- ~~Add Go routines~~
