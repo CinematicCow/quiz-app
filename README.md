@@ -1,5 +1,7 @@
 # Project Title
 
+Go Quiz Game
+
 ## Table of Contents
 
 - [About](#about)
